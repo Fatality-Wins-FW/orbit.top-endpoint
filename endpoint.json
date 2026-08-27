@@ -1,5 +1,5 @@
 {
-  "Orbit.Top External": {
+  "Orbit_Top_External": {
     "Status": "Operational",
     "Version": "0.0.6",
     "type": "default",
@@ -27,7 +27,7 @@
     }
   },
 
-  "Orbit.Top Executor": {
+  "Orbit_Top_Executor": {
     "Status": "In Dev",
     "Version": "0.0.0",
     "type": "default",
