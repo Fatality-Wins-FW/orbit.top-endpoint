@@ -1,0 +1,59 @@
+{
+  "Orbit.Top External": {
+    "Status": "Operational",
+    "Version": "0.0.6",
+    "type": "default",
+    "loaderVersion": "v0.0.6",
+    "clientVersion": "v0.0.6-ptb",
+    "Discord_Invite": "https://dsc.gg/orbittop",
+    "Changelogs": [
+      "+ Fixed some Loading Problems",
+      "+ Fixed some Cache Problems",
+      "+ Fixed Offsets Problems",
+      "+ Rewritten all Features"
+    ],
+    "supportedRobloxBuild": {
+      "hash": "17d504d2c9544583",
+      "version": "version-17d504d2c9544583",
+      "channel": "LIVE"
+    },
+
+
+    "Download_Options": {
+      "Download_1": {
+        "Title": "GoFile",
+        "Download_Link": "https://gofile.io/d/4K9AhHYZ"
+      }
+    }
+  },
+
+  "Orbit.Top Executor": {
+    "Status": "In Dev",
+    "Version": "0.0.0",
+    "type": "default",
+    "UNC": "N/A",
+    "SUNC": "N/A",
+    "Raknet": false,
+    "Decompiler": false,
+    "Multi Instance": false,
+    "loaderVersion": "v0.0.0",
+    "clientVersion": "v0.0.0-ptb",
+    "Discord_Invite": "https://dsc.gg/orbittop",
+    "Changelogs": [
+      "Nothing"
+    ],
+    "supportedRobloxBuild": {
+      "hash": "17d504d2c9544583",
+      "version": "version-17d504d2c9544583",
+      "channel": "LIVE"
+    },
+
+
+    "Download_Options": {
+      "Download_1": {
+        "Title": "SOON",
+        "Download_Link": "https://about:blank/"
+      }
+    }
+  }
+}
