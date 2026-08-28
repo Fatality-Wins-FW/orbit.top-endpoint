@@ -1,20 +1,17 @@
 {
   "Orbit_Top_External": {
     "Status": "Operational",
-    "Version": "0.0.6",
+    "Version": "0.0.7",
     "type": "default",
-    "loaderVersion": "v0.0.6",
-    "clientVersion": "v0.0.6-ptb",
+    "loaderVersion": "v0.0.7",
+    "clientVersion": "v0.0.7-ptb",
     "Discord_Invite": "https://dsc.gg/orbittop",
     "Changelogs": [
-      "+ Fixed some Loading Problems",
-      "+ Fixed some Cache Problems",
-      "+ Fixed Offsets Problems",
-      "+ Rewritten all Features"
+      "+ Updated to version-f5a60436d48947d3"
     ],
     "supportedRobloxBuild": {
-      "hash": "17d504d2c9544583",
-      "version": "version-17d504d2c9544583",
+      "hash": "f5a60436d48947d3",
+      "version": "version-f5a60436d48947d3",
       "channel": "LIVE"
     },
 
